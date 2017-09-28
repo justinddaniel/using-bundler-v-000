@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-require 'bundler/setup'
+
 
 gem "hashie"
 gem "sinatra", "1.4.4"
